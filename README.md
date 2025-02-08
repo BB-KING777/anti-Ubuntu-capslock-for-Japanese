@@ -1,0 +1,1 @@
+# anti-Ubuntu-capslock-for-Japanese
